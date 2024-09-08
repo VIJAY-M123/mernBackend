@@ -1,0 +1,36 @@
+[
+    {
+    "name" :"Oppo 21 Pro",
+      "price":245.67,
+    "description":"Oppo 21 Pro super phone",
+    "rating":45,
+    "images":[
+        {
+            "image":"product_8898988.pg"
+        }
+       ],
+    "categories":"mobile Phones",
+    "seller":"Amazon",
+    "stock":5,
+    "noOfReviews":15,
+    "reviews":[]
+
+},
+{
+    "name" :"redmi 21 Pro",
+    "price":245.67,
+    "description":"Redmi 21 Pro super phone",
+    "rating":45,
+    "images":[
+        {
+            "image":"product_44444.jpg"
+        }
+       ],
+    "categories":"mobile Phones",
+    "seller":"Amazon",
+    "stock":5,
+    "noOfReviews":15,
+    "reviews":[]
+
+}
+]
